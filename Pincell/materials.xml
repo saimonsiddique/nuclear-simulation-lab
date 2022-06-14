@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <cross_sections>/media/saimon-siddique/SAIMON/1.STUDY MATERIALS/MIST NSE SEMESTERS/LEVEL-4 TERM-1/2. SESSIONALS/NSE 420/MIST LAB/cross_section_data/jeff33/jeff33_hdf5</cross_sections>
+  <cross_sections>/media/saimon-siddique/SAIMON/1.STUDY MATERIALS/MIST NSE SEMESTERS/LEVEL-4 TERM-1/2. SESSIONALS/NSE 420/MIST LAB/cross_section_data/jeff33/jeff33_hdf5/cross_sections.xml</cross_sections>
   <material depletable="true" id="1" name="uo2">
     <density units="g/cm3" value="10.0" />
-    <nuclide ao="0.958961941481966" name="U238" />
-    <nuclide ao="0.0003619114009591381" name="U234" />
-    <nuclide ao="0.040490680352735786" name="U235" />
-    <nuclide ao="0.0001854667643390831" name="U236" />
+    <nuclide ao="0.016201318232363787" name="U235" />
+    <nuclide ao="0.00014480966305777167" name="U234" />
+    <nuclide ao="0.983579662285321" name="U238" />
+    <nuclide ao="7.420981925736602e-05" name="U236" />
     <nuclide ao="2.0" name="O16" />
   </material>
   <material id="2" name="zirconium">
     <density units="g/cm3" value="6.6" />
+    <nuclide ao="0.1738" name="Zr94" />
     <nuclide ao="0.5145" name="Zr90" />
     <nuclide ao="0.1715" name="Zr92" />
     <nuclide ao="0.1122" name="Zr91" />
-    <nuclide ao="0.1738" name="Zr94" />
     <nuclide ao="0.028" name="Zr96" />
   </material>
   <material id="3" name="h2o">
